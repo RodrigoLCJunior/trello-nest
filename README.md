@@ -11,5 +11,10 @@
 - npm install axios
 - npm install cross-env --save-dev
 
-////"start": "cross-env PORT=3001 react-scripts start",
-//// "start": "react-scripts start",
+# Importante
+- Fazer o npm run start:dev no backend e deixe ligado
+- Faça cd trello-frontend no bash
+- Fazer npm start no frontend
+
+//// Modificado "start": "react-scripts start", por "start": "cross-env PORT=3001 react-scripts start", no package.json
+
